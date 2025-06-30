@@ -1,0 +1,6 @@
+"elements"[*].[Label, Desc, xexts.[*]]
+The video game Book of Hours has many books with plenty of lore, but extracting them from the .json file located in the game's directory is a pain. You can use this above JMESpath 
+code to filter the content of the .json file you find in "...\Book of Hours\bh_Data\StreamingAssets\bhcontent\core\elements\tomes.json" 
+
+If you are unsure of how to utalize JMESpath, you can just use a .json reader like https://codebeautify.org/jsonviewer to make use of it.
+More to come soon, this was so simple I'll make one for Cultist Simulator as well.
